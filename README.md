@@ -10,6 +10,7 @@
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [CSS](https://www.w3schools.com/css/default.asp)
   - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
+  - [Example Page](./example_page.html)
 
 
 # Navigation
