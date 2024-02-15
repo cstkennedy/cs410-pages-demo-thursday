@@ -17,6 +17,7 @@
 
   - [Announcement (29 January)](./2024.01.29.Recitation.This.Week)
   - [Announcement (CS 330/More Markdown)](./2024.01.29.Assignment.1.Review.Assignment.2.Hints)
+  - [Presentations](./presentations)
 
 # Notes
 
